@@ -25,7 +25,3 @@ Lenders need to price loans in a way that reflects borrower risk, affordability,
 
 - `lendingclub_loan_interest_tree_regression.ipynb` - analysis notebook
 - `loan.csv` - loan dataset used for modelling
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs and course-submission wording have been removed.
