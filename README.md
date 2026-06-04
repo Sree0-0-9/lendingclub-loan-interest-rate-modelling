@@ -36,9 +36,11 @@ Use predictive modelling as a decision-support layer for loan pricing, while kee
 
 ```text
 .
-├── data/
-│   └── loan.csv
-├── notebooks/
-│   └── lendingclub_loan_interest_tree_regression.ipynb
-└── README.md
+|-- lendingclub_loan_interest_tree_regression.ipynb
+|-- loan.csv
+`-- README.md
 ```
+
+## How To Open
+
+Open `lendingclub_loan_interest_tree_regression.ipynb` in Jupyter Notebook, JupyterLab, VS Code, or GitHub's notebook preview. Keep `loan.csv` in the same folder as the notebook so the data-loading steps work correctly.
